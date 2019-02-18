@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=dcpu
+Comment=needs cpufreq
+Exec=sh "/home/black/181125 downgrade by cpufreq/downgradecpu.sh"
+Icon=none
+Terminal=true
+Type=Application
+Keywords=script;sh;
+Name[en_US]=dwgcpu
